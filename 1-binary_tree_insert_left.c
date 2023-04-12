@@ -2,7 +2,7 @@
 /**
  * binary_tree_insert_left - adds a node in the left of the parent
  * if it exists it move down one level and add the new node first
- * @parent: parent of the new node
+ * @parent: parent of new node
  * @value: value of the node created
  * Return: NULL if it fails to work or the new node
  */
