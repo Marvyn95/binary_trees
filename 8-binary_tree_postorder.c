@@ -2,7 +2,7 @@
 /**
  * binary_tree_postorder - print elements of tree using post-order traversal
  * @tree: tree to traverse
- * @func: function to use for each node encountered
+ * @func: function to use for each node encountered each time
  * Return: void
  */
 void binary_tree_postorder(const binary_tree_t *tree, void (*func)(int))
